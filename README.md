@@ -14,5 +14,5 @@ This notebook has been developed in the Radiology Informatics Laboratory at Mayo
 In case of any issues, please contact me via this email address:
 rouzrokh.pouria@mayo.edu
 
-Hope you find it helpful!
+Hope you find it helpful!  
 Pouria
